@@ -1,0 +1,13 @@
+﻿  Ship.cpp
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(41): warning C4305: '*=': truncation from 'double' to 'float'
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(42): warning C4305: '*=': truncation from 'double' to 'float'
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio\project_sfml\spaceship\spaceship\ship.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SpaceShip.vcxproj -> E:\Visual Studio\Project_SFML\SpaceShip\Debug\SpaceShip.exe
+  SpaceShip.vcxproj -> E:\Visual Studio\Project_SFML\SpaceShip\Debug\SpaceShip.pdb (Full PDB)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpaceShip", "SpaceShip\SpaceShip.vcxproj", "{7350B417-86B9-4F40-A795-5DA67BDAFD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.CD_ROM|x86.ActiveCfg = Release|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.CD_ROM|x86.Build.0 = Release|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.Debug|x86.ActiveCfg = Debug|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.Debug|x86.Build.0 = Debug|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.DVD-5|x86.ActiveCfg = Debug|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.DVD-5|x86.Build.0 = Debug|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.Release|x86.ActiveCfg = Release|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.Release|x86.Build.0 = Release|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.SingleImage|x86.ActiveCfg = Release|Win32
+		{7350B417-86B9-4F40-A795-5DA67BDAFD7F}.SingleImage|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
