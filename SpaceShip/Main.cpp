@@ -78,7 +78,7 @@ float AIinPutX(int x1, int y1, int x2, int y2)
 	{
 		y_unit = 0;
 	}
-	else if (x1 != x2 && y1 != y2)// duong xien
+	else if (x1 != x2 && y1 != y2)// duong chéo
 	{
 		float m = (float)abs(Dy) / abs(Dx);
 		x_unit = 1;
